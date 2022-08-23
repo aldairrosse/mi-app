@@ -1,0 +1,8 @@
+{
+  "name": "MiApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "7fb95afb"
+}
